@@ -1,0 +1,9 @@
+schema_version: 1
+module_path: agent_workflows
+title: AI漫画工作流定义
+scope:
+    - agents/
+source_files: []
+depends_on: []
+related_to:
+    - path: app

@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: database_migrations
+title: 数据库迁移管理
+scope:
+    - drizzle/
+source_files: []
+depends_on: []
+related_to: []
